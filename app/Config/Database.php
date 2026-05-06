@@ -30,7 +30,7 @@ class Database extends Config
         'hostname'     => '127.0.0.1',
         'username'     => 'root',
         'password'     => '',
-        'database'     => 'notes_itu',
+        'database'     => 'diets',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
